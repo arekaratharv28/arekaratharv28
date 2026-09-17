@@ -1,6 +1,6 @@
 # Hi there, I'm Atharv Arekar 👋
 
-3rd Year AIML Student pursuing B.Tech at SVKM's Dwarkadas J Sanghvi College of Engineering under Mumbai University.  
+Final Year AIML Student pursuing B.Tech at SVKM's Dwarkadas J Sanghvi College of Engineering under Mumbai University.  
 Passionate about leveraging AI, ML, and data analytics to solve real-world problems.
 
 ---
